@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Peliculas", "Peliculas\Peliculas.csproj", "{4AC0E534-EAB4-4C8E-ADC2-3D79457F46DA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCorePeliculas.Pruebas", "..\EFCorePeliculas.Pruebas\EFCorePeliculas.Pruebas\EFCorePeliculas.Pruebas.csproj", "{BB5A147A-6761-4D73-8828-3F103D7021E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AC0E534-EAB4-4C8E-ADC2-3D79457F46DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AC0E534-EAB4-4C8E-ADC2-3D79457F46DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AC0E534-EAB4-4C8E-ADC2-3D79457F46DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AC0E534-EAB4-4C8E-ADC2-3D79457F46DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB5A147A-6761-4D73-8828-3F103D7021E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB5A147A-6761-4D73-8828-3F103D7021E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB5A147A-6761-4D73-8828-3F103D7021E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB5A147A-6761-4D73-8828-3F103D7021E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D61EBD5-4361-40B9-A94B-5B5609C7AD9F}
+	EndGlobalSection
+EndGlobal
